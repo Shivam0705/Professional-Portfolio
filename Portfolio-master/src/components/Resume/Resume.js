@@ -24,6 +24,15 @@ function Resume() {
                 " Generated an algorithm to detect and segment handwritten text from an image & Detailed presentation with proof of detecting exact text embedded in the image.",
               ]}
             />
+                <Resumecontent
+              title="Open Source Contributor- DevIncept"
+              date="June 2021 - August 2021"
+              content={[
+                "Contributed a GUI application which encrypt and decrypt texts to the repository Awesome Python Scripts by pull request.",
+                "Added Reserve a table , Send us your feedback and many more features to the open source project: Dev Kitchen.",
+                 "Part of Soomvaar team where I have contributed Stock Price Prediction project using scikit-learn.",
+              ]}
+            />
             <Resumecontent
               title="Data Analyst Intern and Mentorship - The Sparks Foundation Company"
               date="July 2020 - October 2020"
